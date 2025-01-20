@@ -5,3 +5,21 @@ Welcome to my AWS Learning Journey repository! 🌟 This is where I document eve
 
 Why I’m Learning AWS
 As a tech enthusiast passionate about cloud solutions, I aim to build expertise in Amazon Web Services (AWS) and leverage these skills to solve real-world problems. This program is my first step toward becoming a certified cloud practitioner and advancing my career in tech.
+
+# AWS Learning Journey 🚀
+
+Welcome to my AWS learning journey. I will be documenting what I learn each day about AWS in this repository.
+
+## Progress Table
+
+| Date       | Topic Learned                  | Completed |
+|------------|---------------------------------|-----------|
+|            |                                 |           |
+|            |                                 |           |
+
+## Resources
+- Link 1
+- Link 2
+
+## Contact
+- Email: your.email@example.com
