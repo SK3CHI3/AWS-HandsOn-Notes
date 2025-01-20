@@ -1,0 +1,22 @@
+from datetime import datetime
+
+# Path to the README.md file
+file_path = "README.md"
+
+# Get today's date in the format you want (e.g., Jan 27, 2025)
+today = datetime.now().strftime("%b %d, %Y")
+new_row = f"| {today} | [Add Topic] | [Add Status] |\n"
+
+# Open README.md, read content, and insert the new row
+with open(file_path, "r+") as file:
+    content = file.readlines()
+    # Find where the table ends and add the new row after that
+    for index, line in enumerate(content):
+        if line.strip().startswith("|------------"):
+            content.insert(index + 1, new_row)
+            break
+    # Write the updated content back into README.md
+    file.seek(0)
+    file.writelines(content)
+
+print(f"Added new row for {today}")
