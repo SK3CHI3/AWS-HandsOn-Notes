@@ -12,14 +12,4 @@ Welcome to my AWS learning journey. I will be documenting what I learn each day 
 
 ## Progress Table
 
-| Date       | Topic Learned                  | Completed |
-|------------|---------------------------------|-----------|
-|            |                                 |           |
-|            |                                 |           |
-
-## Resources
-- Link 1
-- Link 2
-
-## Contact
-- Email: your.email@example.com
+**Day 1 <27 Jan>**
