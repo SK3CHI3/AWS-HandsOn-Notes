@@ -11,4 +11,5 @@ As a tech enthusiast passionate about cloud solutions, I aim to build expertise 
 Welcome to my AWS learning journey. I will be documenting what I learn each day about AWS in this repository.
 
 
-**Day 1 <27 Jan>**
+# Day 1 27 Jan
+---
