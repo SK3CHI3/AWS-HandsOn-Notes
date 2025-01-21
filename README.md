@@ -14,6 +14,7 @@ Welcome to my AWS learning journey. I will be documenting what I learn each day 
 
 ---
 
-# Day 1 27 Jan
+# Day One 27 Jan
 
 ---
+
