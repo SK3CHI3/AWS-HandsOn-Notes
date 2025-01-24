@@ -11,9 +11,10 @@ As a tech enthusiast passionate about cloud solutions, I aim to build expertise 
 # AWS Learning Journey 🚀
 
 Welcome to my AWS learning journey. I will be documenting what I learn each day about AWS in this repository.
+
+---
 #Onboarding
 ---
-
 # Day One 27 Jan
 
 ---
