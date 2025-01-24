@@ -14,6 +14,7 @@ Welcome to my AWS learning journey. I will be documenting what I learn each day 
 
 ---
 # Onboarding
+
 It was scheduled on Friday 23rd but was postponed due to issue with the emails.
 ---
 # Day One 27 Jan
