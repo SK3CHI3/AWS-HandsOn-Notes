@@ -18,7 +18,7 @@ Welcome to my AWS learning journey. I will be documenting what I learn each day 
 It was scheduled on Friday 23rd but was postponed due to issue with the emails.
 
 # AWS Restart Program Cohort 12 Kickoff /27 Jan/
-.The kickoff meeting for Cohort 12 of the AWS Restart program provided an overview of the upcoming 12-week virtual intensive course:
+-The kickoff meeting for Cohort 12 of the AWS Restart program provided an overview of the upcoming 12-week virtual intensive course:
 
 .The program aims to prepare learners for careers in cloud computing and certify them as AWS Cloud Practitioners.
 
