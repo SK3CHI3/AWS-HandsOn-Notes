@@ -16,22 +16,20 @@ Welcome to my AWS learning journey. I will be documenting what I learn each day 
 ## Onboarding
 
 It was scheduled on Friday 23rd but was postponed due to issue with the emails.
----
-# AWS Restart Program Cohort 12 Kickoff
-This meeting marked the official start of Cohort 12 of the AWS Restart program, organized by Immobilis in partnership with AWS, UNESCO, and AMTRANT. Key highlights include:
 
-Immobilis' impressive list of awards and recognitions for their work in empowering youth in Kenya through digital skills training.
+#AWS Restart Program Cohort 12 Kickoff
+.The kickoff meeting for Cohort 12 of the AWS Restart program provided an overview of the upcoming 12-week virtual intensive course:
 
-Overview of the 12-week virtual AWS Restart program, which has already graduated 1,783 learners as Cloud Practitioners.
+.The program aims to prepare learners for careers in cloud computing and certify them as AWS Cloud Practitioners.
 
-Selection of the top 392 learners for Cohort 12, with 58% females and 5 persons with disabilities.
+.Learners will receive classroom-based skills development and training on cloud architecture, security, and other key cloud computing concepts.
 
-Introduction of the 14 certified AWS Restart instructors who will guide the learners.
+.The 392 selected learners, comprising 58% females and 5 persons with disabilities, will be supported by a team of 14 fully certified AWS Restart instructors.
 
-Motivational speeches from Safaricom and MasterCard Foundation representatives.
+.Learners were encouraged to complete all labs and training classes, prepare well for the certification exams, and not drop out of the program.
 
-Positive feedback from learners on the application and selection process.
+.Networking and maintaining professionalism were emphasized as important aspects for learners to focus on during the 12-week journey.
 
-----
+.This kickoff sets the stage for an intensive, hands-on learning experience that will equip the Cohort 12 participants with in-demand cloud computing skills and certifications.
 
 .
