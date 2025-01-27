@@ -20,16 +20,16 @@ It was scheduled on Friday 23rd but was postponed due to issue with the emails.
 # AWS Restart Program Cohort 12 Kickoff /27 Jan/
 * The kickoff meeting for Cohort 12 of the AWS Restart program provided an overview of the upcoming 12-week virtual intensive course:
 
-.The program aims to prepare learners for careers in cloud computing and certify them as AWS Cloud Practitioners.
+* The program aims to prepare learners for careers in cloud computing and certify them as AWS Cloud Practitioners.
 
-.Learners will receive classroom-based skills development and training on cloud architecture, security, and other key cloud computing concepts.
+* Learners will receive classroom-based skills development and training on cloud architecture, security, and other key cloud computing concepts.
 
-.The 392 selected learners, comprising 58% females and 5 persons with disabilities, will be supported by a team of 14 fully certified AWS Restart instructors.
+* The 392 selected learners, comprising 58% females and 5 persons with disabilities, will be supported by a team of 14 fully certified AWS Restart instructors.
 
-.Learners were encouraged to complete all labs and training classes, prepare well for the certification exams, and not drop out of the program.
+* Learners were encouraged to complete all labs and training classes, prepare well for the certification exams, and not drop out of the program.
 
-.Networking and maintaining professionalism were emphasized as important aspects for learners to focus on during the 12-week journey.
+* Networking and maintaining professionalism were emphasized as important aspects for learners to focus on during the 12-week journey.
 
-.This kickoff sets the stage for an intensive, hands-on learning experience that will equip the Cohort 12 participants with in-demand cloud computing skills and certifications.
+* This kickoff sets the stage for an intensive, hands-on learning experience that will equip the Cohort 12 participants with in-demand cloud computing skills and certifications.
 
 .
