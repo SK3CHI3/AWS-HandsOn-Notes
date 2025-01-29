@@ -53,3 +53,4 @@ A server is a computer that provides data or services to other computers over a 
 * Virtual machines allow multiple workloads to run on a single physical machine, improving resource utilization, efficiency, and cost-effectiveness in cloud environments.
 * What are the phases of the software development life cycle (SDLC)?
 * The SDLC consists of the following phases: Plan, Analyze, Design, Develop, Test, Implement, and Maintain, facilitating organized and disciplined software production.
+../
