@@ -42,14 +42,17 @@ Data centers secure and maintain servers and other essential infrastructure, and
 Virtual machines (VMs) allow the emulation of multiple computing environments on a single physical host, enhancing resource efficiency and flexibility.
 The software development life cycle (SDLC) is a systematic process that improves software quality through structured phases from planning to maintenance.
 Cloud computing leverages virtualization, enabling scalable, cost-effective computing resources through services like Amazon EC2.
+
 Frequently Asked Questions
-* What is a server, and how does it function?
+
+  * What is a server, and how does it function?
 A server is a computer that provides data or services to other computers over a network, responding to client requests.
 
-* What are the main components of a data center?
+  * What are the main components of a data center?
 * A data center typically contains servers, storage devices, network devices, cooling systems, and uninterruptable power supplies to maintain optimal operation.
 
-* How do virtual machines benefit cloud computing?
+  * How do virtual machines benefit cloud computing?
+
 * Virtual machines allow multiple workloads to run on a single physical machine, improving resource utilization, efficiency, and cost-effectiveness in cloud environments.
 * What are the phases of the software development life cycle (SDLC)?
 * The SDLC consists of the following phases: Plan, Analyze, Design, Develop, Test, Implement, and Maintain, facilitating organized and disciplined software production.
