@@ -80,33 +80,4 @@ Amazon S3 is a scalable object storage service provided by AWS that allows users
 3. **S3 One Zone-IA:** Similar to Standard-IA but stored in a single Availability Zone.
 4. **S3 Glacier:** For long-term archival with low storage costs.
 5. **S3 Glacier Deep Archive:** For data that is rarely accessed and needs the lowest storage cost.
-6. **S3 Intelligent-Tiering:** Automatically moves data between access tiers based on usage patterns.
-
-**Key Concepts:**
-- **Buckets:** Containers for storing objects (files).
-- **Objects:** Individual units of data stored in buckets.
-- **Versions:** Keep multiple versions of an object to recover from accidental deletions or overwrites.
-- **Lifecycle Policies:** Automate moving data between storage classes or deleting old data.
-- **Access Control:** Use policies to manage who can access your data.
-
-**Use Cases:**
-- **Data Backup and Restore:** Store backups securely.
-- **Static Website Hosting:** Host websites with HTML, CSS, JavaScript, and media files.
-- **Big Data Analytics:** Store and analyze large datasets.
-- **Content Distribution:** Serve content globally with low latency.
-- **Archiving:** Long-term storage of data that is rarely accessed.
-
-**Security Features:**
-- **Encryption:** Server-side encryption (SSE) and client-side encryption.
-- **Access Control:** Bucket policies, Access Control Lists (ACLs), and IAM roles.
-- **Compliance:** Meets various compliance standards like PCI DSS, HIPAA, and GDPR.
-
-**Integration:**
-- **AWS Services:** Integrates with services like Amazon EC2, Lambda, and Redshift.
-- **Third-Party Applications:** Can be used with various third-party tools and services.
-
-**Access Methods:**
-- **AWS Management Console:** Web-based interface for managing S3.
-- **AWS CLI:** Command-line interface for scripting and automation.
-- **AWS SDKs:** Libraries for integrating S3 with applications in different programming languages.
-- **REST API:** Programmatic access to S3 services.
+6. **S3 Intelligent-Tiering:** Automatically moves data between access tiers based on usage patter
