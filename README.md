@@ -34,15 +34,4 @@ It was scheduled on Friday 23rd but was postponed due to issue with the emails.
 # 27-29 th.
 
 # Summary
-The “Basic Computing Concepts” module introduces fundamental computing technologies, emphasizing servers, data centers, and the software development life cycle (SDLC). It defines servers as computers that provide services to other machines, with examples including web, database, and mail servers. Data centers are physical facilities housing servers and networking equipment, which can be owned traditionally or accessed via cloud service providers. The module also covers virtualization and virtual machines, explaining how they allow multiple operating systems to run on a single physical machine. The SDLC outlines a structured process for software development, encompassing planning, analysis, design, development, testing, implementation, and maintenance, aimed at producing high-quality software.
-
-# Key Insights
-Servers are specialized computers providing data and services over a network, differing from desktop computers in design and functionality.
-Data centers secure and maintain servers and other essential infrastructure, and can be owned by organizations or accessed via cloud providers.
-Virtual machines (VMs) allow the emulation of multiple computing environments on a single physical host, enhancing resource efficiency and flexibility.
-The software development life cycle (SDLC) is a systematic process that improves software quality through structured phases from planning to maintenance.
-Cloud computing leverages virtualization, enabling scalable, cost-effective computing resources through services like Amazon EC2.
-
-Frequently Asked Questions
-
-  * What is 
+The “Basic Computing Concepts” module introduces fundamental computing technologies, emphasizing servers, data centers, and the software development life cycle (SDLC). It defines servers as computers that provide services to other machines, with examples including web, database, and mail servers. Data centers are physical facilities housing servers and networking equipment, which can be owned traditionally or accessed via cloud service providers. The module also covers virtualization and virtual machines, explaining how they allow multiple operating systems to run on a single physical machine. The SDLC outlines a structured process for software development, encompassing planning, analysis, design, development, testing, implementation, and maintenance, aimed at producing high-quality softw
