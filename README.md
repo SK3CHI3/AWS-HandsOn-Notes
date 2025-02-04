@@ -45,9 +45,4 @@ Cloud computing leverages virtualization, enabling scalable, cost-effective comp
 
 Frequently Asked Questions
 
-  * What is a server, and how does it function?
-A server is a computer that provides data or services to other computers over a network, responding to client requests.
-
-  * What are the main components of a data center?
-* A data center typically contains servers, storage devices, network devices, cooling 
-
+  * What is 
