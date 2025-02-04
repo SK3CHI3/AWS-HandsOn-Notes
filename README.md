@@ -21,7 +21,7 @@ It was scheduled on Friday 23rd but was postponed due to issue with the emails.
 
 * The program aims to prepare learners for careers in cloud computing and certify them as AWS Cloud Practitioners.
 
-* Learners will receive classroom-based skills development and training on cloud architecture, security, and other key cloud computing concepts.
+* Learners will receive classroom-based skills development and training on cloud architecture, security, and other ke
 
 * The 392 selected learners, comprising 58% females and 5 persons with disabilities, will be supported by a team of 14 fully certified AWS Restart instructors.
 
