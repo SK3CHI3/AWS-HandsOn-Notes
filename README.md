@@ -74,10 +74,3 @@ Amazon S3 is a scalable object storage service provided by AWS that allows users
 4. **Security:** Offers encryption, access control, and compliance with industry standards.
 5. **Cost-Effective:** Pay-as-you-go pricing model.
 
-**Storage Classes:**
-1. **S3 Standard:** For frequently accessed data with low latency and high throughput.
-2. **S3 Standard-IA (Infrequent Access):** For less frequently accessed data with lower storage costs.
-3. **S3 One Zone-IA:** Similar to Standard-IA but stored in a single Availability Zone.
-4. **S3 Glacier:** For long-term archival with low storage costs.
-5. **S3 Glacier Deep Archive:** For data that is rarely accessed and needs the lowest storage cost.
-6. **S3 Intelligent-Tiering:** Automatically moves data between access tiers based on usage patter
