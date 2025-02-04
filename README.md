@@ -49,13 +49,5 @@ Frequently Asked Questions
 A server is a computer that provides data or services to other computers over a network, responding to client requests.
 
   * What are the main components of a data center?
-* A data center typically contains servers, storage devices, network devices, cooling systems, and uninterruptable power supplies to maintain optimal operation.
-
-  * How do virtual machines benefit cloud computing?
-
-* Virtual machines allow multiple workloads to run on a single physical machine, improving resource utilization, efficiency, and cost-effectiveness in cloud environments.
-* What are the phases of the software development life cycle (SDLC)?
-* The SDLC consists of the following phases: Plan, Analyze, Design, Develop, Test, Implement, and Maintain, facilitating organized and disciplined software production.
-../
-
+* A data center typically contains servers, storage devices, network devices, cooling 
 
