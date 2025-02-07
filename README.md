@@ -27,11 +27,4 @@ It was scheduled on Friday 23rd but was postponed due to issue with the emails.
 
 * Learners were encouraged to complete all labs and training classes, prepare well for the certification exams, and not drop out of the program.
 
-* Networking and maintaining professionalism were emphasized as important aspects for learners to focus on during the 12-week journey.
-
-* This kickoff sets the stage for an intensive, hands-on learning experience that will equip the Cohort 12 participants with in-demand cloud computing skills and certifications.
-
-# 27-29 th.
-
-# Summary
-The “Basic Computing Concepts” module introduces fundamental computing technologies, emphasizing servers, data centers, and the software development life cycle (SDLC). It defines servers as computers that provide services to other machines, with examples including web, database, and mail servers. Data centers are physical facilities housing servers and networking equipment, which can be owned traditionally or accessed via cloud service providers. The module also covers virtualization and virtual machines, explaining how they allow multiple operating systems to run on a single physical machine. The SDLC outlines a structured process for software development, encompassing planning, analysis, design, development, testing, implementation, and maintenance, aimed at producing high-quality softw
+* Networking and maintaining professionalism were emphasized as important aspects for learners to focus on durin
