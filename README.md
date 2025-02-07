@@ -17,9 +17,3 @@ Welcome to my AWS learning journey. I will be documenting what I learn each day 
 It was scheduled on Friday 23rd but was postponed due to issue with the emails.
 
 
-
-* The 392 selected learners, comprising 58% females and 5 persons with disabilities, will be supported by a team of 14 fully certified AWS Restart instructors.
-
-* Learners were encouraged to complete all labs and training classes, prepare well for the certification exams, and not drop out of the program.
-
-* Networking and maintaining professionalism were emphasized as important aspects for learners to focus on durin
