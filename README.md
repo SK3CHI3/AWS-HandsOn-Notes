@@ -67,79 +67,79 @@ Amazon Linux is a Linux distribution provided by Amazon Web Services (AWS). It's
 The Linux command line, accessed via a terminal, allows users to interact with the system through text-based commands. Common commands include:
 
 '''
-ls: List directory contents
+> ls: List directory contents
 
-cd: Change directory
+> cd: Change directory
 
-pwd: Print working directory
+> pwd: Print working directory
 
-cp, mv, rm: Copy, move, and remove files
+> cp, mv, rm: Copy, move, and remove files
 
-cat, less, grep: Display and search file content
+> cat, less, grep: Display and search file content
 
 '''
 
 ## Linux Users and Groups
 Linux is a multi-user system, with each user having a unique user ID. Groups help manage permissions for multiple users. Common commands:
 
-useradd, usermod, userdel: Add, modify, delete users
+> useradd, usermod, userdel: Add, modify, delete users
 
-groupadd, groupmod, groupdel: Manage groups
+> groupadd, groupmod, groupdel: Manage groups
 
-chmod, chown: Change file permissions and ownership
+> chmod, chown: Change file permissions and ownership
 
 ## Editing Files in Linux
 Editing files in Linux can be done using text editors like vi, nano, and gedit. Basic commands for vi:
 
-i: Enter insert mode
+> i: Enter insert mode
 
-Esc: Exit insert mode
+> Esc: Exit insert mode
 
-:w: Save changes
+> :w: Save changes
 
-:q: Quit
+> :q: Quit
 
-:wq: Save and quit
+> :wq: Save and quit
 
 ## Working with Linux Files
 Managing files includes tasks like creating, copying, moving, and deleting files. Useful commands:
 
-touch: Create an empty file
+> touch: Create an empty file
 
-mkdir: Create a directory
+> mkdir: Create a directory
 
-cp, mv, rm: Copy, move, remove files and directories
+> cp, mv, rm: Copy, move, remove files and directories
 
-find: Search for files
+> find: Search for files
 
 ## Managing File Permissions
 File permissions determine who can read, write, or execute a file. Command examples:
 
-ls -l: Display file permissions
+> ls -l: Display file permissions
 
-chmod: Change file permissions (e.g., chmod 755 file)
+> chmod: Change file permissions (e.g., chmod 755 file)
 
-chown: Change file owner (e.g., chown user:group file)
+> chown: Change file owner (e.g., chown user:group file)
 
 ## Managing Linux Processes
 Processes are instances of running programs. Useful commands:
 
-ps: Display active processes
+> ps: Display active processes
 
-top, htop: Real-time process monitoring
+> top, htop: Real-time process monitoring
 
-kill: Terminate a process (e.g., kill 1234)
+> kill: Terminate a process (e.g., kill 1234)
 
-bg, fg: Manage background and foreground processes
+> bg, fg: Manage background and foreground processes
 
 ## Managing Linux Services
 Services are background processes managed by the system. Commands to manage services:
 
-systemctl start/stop/restart service: Control services
+- systemctl start/stop/restart service: Control services
 
-systemctl enable/disable service: Enable or disable service at boot
+- systemctl enable/disable service: Enable or disable service at boot
 
-systemctl status service: Check service status
+- systemctl status service: Check service status
 
 ## The Bash Shell
 Bash (Bourne Again SHell) is a popular command-line interpreter for Unix/Linux systems. It allows users to execute commands, create scripts, and automate tasks.
@@ -147,31 +147,31 @@ Bash (Bourne Again SHell) is a popular command-line interpreter for Unix/Linux s
 ## Bash Shell Scripting
 Bash scripting involves writing scripts to automate tasks. Basics:
 
-Shebang (#!/bin/bash): Specifies the script interpreter
+- Shebang (#!/bin/bash): Specifies the script interpreter
 
 Variables: variable=value
 
-Control Structures: if, for, while
+- Control Structures: if, for, while
 
 Functions: Define reusable code blocks
 
 ## Linux Software Management
 Managing software involves installing, updating, and removing packages. Tools vary by distribution:
 
-apt, dpkg: Debian-based systems (e.g., Ubuntu)
+> apt, dpkg: Debian-based systems (e.g., Ubuntu)
 
-yum, rpm: Red Hat-based systems (e.g., CentOS)
+> yum, rpm: Red Hat-based systems (e.g., CentOS)
 
-zypper: SUSE systems
+> zypper: SUSE systems
 
 ## Managing Log Files
 Log files store system and application event records. Tools for managing logs:
 
-journalctl: View systemd logs
+> journalctl: View systemd logs
 
-/var/log/: Directory containing log files
+> /var/log/: Directory containing log files
 
-tail, less, grep: View and search logs
+> tail, less, grep: View and search logs
 
 ---
 
@@ -183,9 +183,9 @@ Networking refers to the practice of connecting computers and other devices to s
 ## Networking Concepts
 Network: A group of interconnected devices that can communicate with each other.
 
-LAN (Local Area Network): A network that covers a small geographic area, like a home or office.
+- LAN (Local Area Network): A network that covers a small geographic area, like a home or office.
 
-WAN (Wide Area Network): A network that covers a large geographic area, such as a city, country, or even globally.
+- WAN (Wide Area Network): A network that covers a large geographic area, such as a city, country, or even globally.
 
 ## Protocols: Rules and conventions for communication between network devices (e.g., TCP/IP, HTTP).
 
@@ -193,11 +193,11 @@ WAN (Wide Area Network): A network that covers a large geographic area, such as 
 The Internet Protocol (IP) is a set of rules for routing and addressing packets of data so they can travel across networks and reach the correct destination. IP addresses are unique numerical labels assigned to each device on a network.
 
 ## Networking in the AWS Cloud
-AWS provides a suite of networking services to help build and manage cloud networks:
+ -AWS provides a suite of networking services to help build and manage cloud networks:
 
-VPC (Virtual Private Cloud): Isolated cloud resources for secure network configuration.
+- VPC (Virtual Private Cloud): Isolated cloud resources for secure network configuration.
 
-Route 53: Scalable DNS web service.
+- Route 53: Scalable DNS web service.
 
 Direct Connect: Dedicated network connection to AWS.
 
@@ -205,17 +205,17 @@ Direct Connect: Dedicated network connection to AWS.
 Subnetting divides a large network into smaller, more manageable sub-networks (subnets). Each subnet has a unique range of IP addresses. This enhances security and improves network performance by reducing broadcast traffic.
 
 ## Additional Networking Protocols
-TCP (Transmission Control Protocol): Ensures reliable data transfer between devices.
+- TCP (Transmission Control Protocol): Ensures reliable data transfer between devices.
 
-UDP (User Datagram Protocol): Allows faster, but less reliable data transfer.
+- UDP (User Datagram Protocol): Allows faster, but less reliable data transfer.
 
-HTTP/HTTPS: Protocols for accessing and transmitting web pages securely.
+- HTTP/HTTPS: Protocols for accessing and transmitting web pages securely.
 
-FTP (File Transfer Protocol): Used for transferring files between devices.
+- FTP (File Transfer Protocol): Used for transferring files between devices.
 
 ## Additional Networking Technologies
-VPN (Virtual Private Network): Creates a secure, encrypted connection over a less secure network, such as the internet.
+- VPN (Virtual Private Network): Creates a secure, encrypted connection over a less secure network, such as the internet.
 
-Firewalls: Security systems that control incoming and outgoing network traffic based on predetermined security rules.
+- Firewalls: Security systems that control incoming and outgoing network traffic based on predetermined security rules.
 
-Load Balancers: Distribute network or application traffic across multiple servers to ensure reliability and performance
+- Load Balancers: Distribute network or application traffic across multiple servers to ensure reliability and performance
