@@ -9,24 +9,25 @@ ____
 Cloud computing is the delivery of various computing services (like servers, storage, databases, networking, software, and more) over the internet. It allows for on-demand access to computing resources without the need for managing physical hardware2.
 
 ## Basic Computing Concepts
-Computer: An electronic device that processes data.
+- Computer: An electronic device that processes data.
 
-Hardware: Physical components of a computer (e.g., CPU, RAM, storage).
+- Hardware: Physical components of a computer (e.g., CPU, RAM, storage).
 
-Software: Programs and operating systems that run on hardware.
+- Software: Programs and operating systems that run on hardware.
 
-Data vs. Information: Data is raw, unorganized facts; information is processed data that is meaningful.
+- Data vs. Information: Data is raw, unorganized facts; information is processed data that is meaningful.
 
 ## Advantages of Cloud Computing
-Cost Savings: Reduces the need for physical hardware and maintenance.
 
-Scalability: Easily scales resources up or down based on demand.
+- Cost Savings: Reduces the need for physical hardware and maintenance.
 
-Flexibility: Access resources from anywhere with an internet connection.
+- Scalability: Easily scales resources up or down based on demand.
 
-Disaster Recovery: Provides backup and recovery solutions.
+- Flexibility: Access resources from anywhere with an internet connection.
 
-Speed: Quick deployment of services and applications.
+- Disaster Recovery: Provides backup and recovery solutions.
+
+- Speed: Quick deployment of services and applications.
 
 ## AWS (Amazon Web Services)
 AWS is a comprehensive cloud computing platform offering a wide range of services, including computing power, storage, and databases.
@@ -38,17 +39,17 @@ AWS uses a pay-as-you-go model, meaning you only pay for what you use. There are
 AWS S3 is an object storage service that offers scalability, data availability, security, and performance. It's used for storing and managing data for various applications7.
 
 ## AWS Service Categories
-AWS offers services across several categories, including:
+- AWS offers services across several categories, including:
 
-Compute: Services like EC2, Lambda, and Elastic Beanstalk.
+- Compute: Services like EC2, Lambda, and Elastic Beanstalk.
 
-Storage: Services like S3, EBS, and Glacier.
+- Storage: Services like S3, EBS, and Glacier.
 
-Database: Services like RDS, DynamoDB, and Redshift.
+- Database: Services like RDS, DynamoDB, and Redshift.
 
-Networking: Services like VPC, Route 53, and Direct Connect.
+- Networking: Services like VPC, Route 53, and Direct Connect.
 
-Security: Services like IAM, Cognito, and Shield.
+- Security: Services like IAM, Cognito, and Shield.
 
 ## AWS Elastic Compute (EC2)
 Amazon EC2 provides resizable compute capacity in the cloud. It allows users to run virtual servers and scale up or down as needed6.
@@ -135,11 +136,11 @@ Processes are instances of running programs. Useful commands:
 ## Managing Linux Services
 Services are background processes managed by the system. Commands to manage services:
 
-- systemctl start/stop/restart service: Control services
+> systemctl start/stop/restart service: Control services
 
-- systemctl enable/disable service: Enable or disable service at boot
+> systemctl enable/disable service: Enable or disable service at boot
 
-- systemctl status service: Check service status
+> systemctl status service: Check service status
 
 ## The Bash Shell
 Bash (Bourne Again SHell) is a popular command-line interpreter for Unix/Linux systems. It allows users to execute commands, create scripts, and automate tasks.
