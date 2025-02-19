@@ -172,3 +172,50 @@ journalctl: View systemd logs
 /var/log/: Directory containing log files
 
 tail, less, grep: View and search logs
+
+---
+
+# Week Three: Networking
+
+## Introduction to Networking
+Networking refers to the practice of connecting computers and other devices to share resources and information. It enables communication between devices and can be as simple as two computers connected with a cable or as complex as the internet.
+
+## Networking Concepts
+Network: A group of interconnected devices that can communicate with each other.
+
+LAN (Local Area Network): A network that covers a small geographic area, like a home or office.
+
+WAN (Wide Area Network): A network that covers a large geographic area, such as a city, country, or even globally.
+
+## Protocols: Rules and conventions for communication between network devices (e.g., TCP/IP, HTTP).
+
+## Internet Protocol (IP)
+The Internet Protocol (IP) is a set of rules for routing and addressing packets of data so they can travel across networks and reach the correct destination. IP addresses are unique numerical labels assigned to each device on a network.
+
+## Networking in the AWS Cloud
+AWS provides a suite of networking services to help build and manage cloud networks:
+
+VPC (Virtual Private Cloud): Isolated cloud resources for secure network configuration.
+
+Route 53: Scalable DNS web service.
+
+Direct Connect: Dedicated network connection to AWS.
+
+## IP Subnetting
+Subnetting divides a large network into smaller, more manageable sub-networks (subnets). Each subnet has a unique range of IP addresses. This enhances security and improves network performance by reducing broadcast traffic.
+
+## Additional Networking Protocols
+TCP (Transmission Control Protocol): Ensures reliable data transfer between devices.
+
+UDP (User Datagram Protocol): Allows faster, but less reliable data transfer.
+
+HTTP/HTTPS: Protocols for accessing and transmitting web pages securely.
+
+FTP (File Transfer Protocol): Used for transferring files between devices.
+
+## Additional Networking Technologies
+VPN (Virtual Private Network): Creates a secure, encrypted connection over a less secure network, such as the internet.
+
+Firewalls: Security systems that control incoming and outgoing network traffic based on predetermined security rules.
+
+Load Balancers: Distribute network or application traffic across multiple servers to ensure reliability and performance
