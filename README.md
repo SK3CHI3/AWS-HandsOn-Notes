@@ -5,7 +5,7 @@ Welcome to my AWS Learning Journey repository! 🌟 This is where I document eve
 
 ____
 
-# Introduction to Cloud Computing
+# "Week One:Introduction to Cloud Computing
 Cloud computing is the delivery of various computing services (like servers, storage, databases, networking, software, and more) over the internet. It allows for on-demand access to computing resources without the need for managing physical hardware2.
 
 ## Basic Computing Concepts
@@ -55,3 +55,120 @@ Amazon EC2 provides resizable compute capacity in the cloud. It allows users to 
 
 ## Introduction to Amazon EC2
 Amazon EC2 offers a variety of instance types optimized for different use cases. It supports various pricing models, including On-Demand, Savings Plans, Reserved Instances, and Spot Instances6.
+
+---
+# Week Two: Linux
+
+
+## Introduction to Amazon Linux
+Amazon Linux is a Linux distribution provided by Amazon Web Services (AWS). It's optimized for performance and security on AWS infrastructure, designed to provide a stable, secure, and high-performance execution environment for applications running on Amazon EC2.
+
+## Linux Command Line
+The Linux command line, accessed via a terminal, allows users to interact with the system through text-based commands. Common commands include:
+
+'''
+ls: List directory contents
+
+cd: Change directory
+
+pwd: Print working directory
+
+cp, mv, rm: Copy, move, and remove files
+
+cat, less, grep: Display and search file content
+
+'''
+
+## Linux Users and Groups
+Linux is a multi-user system, with each user having a unique user ID. Groups help manage permissions for multiple users. Common commands:
+
+useradd, usermod, userdel: Add, modify, delete users
+
+groupadd, groupmod, groupdel: Manage groups
+
+chmod, chown: Change file permissions and ownership
+
+## Editing Files in Linux
+Editing files in Linux can be done using text editors like vi, nano, and gedit. Basic commands for vi:
+
+i: Enter insert mode
+
+Esc: Exit insert mode
+
+:w: Save changes
+
+:q: Quit
+
+:wq: Save and quit
+
+## Working with Linux Files
+Managing files includes tasks like creating, copying, moving, and deleting files. Useful commands:
+
+touch: Create an empty file
+
+mkdir: Create a directory
+
+cp, mv, rm: Copy, move, remove files and directories
+
+find: Search for files
+
+## Managing File Permissions
+File permissions determine who can read, write, or execute a file. Command examples:
+
+ls -l: Display file permissions
+
+chmod: Change file permissions (e.g., chmod 755 file)
+
+chown: Change file owner (e.g., chown user:group file)
+
+## Managing Linux Processes
+Processes are instances of running programs. Useful commands:
+
+ps: Display active processes
+
+top, htop: Real-time process monitoring
+
+kill: Terminate a process (e.g., kill 1234)
+
+bg, fg: Manage background and foreground processes
+
+## Managing Linux Services
+Services are background processes managed by the system. Commands to manage services:
+
+systemctl start/stop/restart service: Control services
+
+systemctl enable/disable service: Enable or disable service at boot
+
+systemctl status service: Check service status
+
+## The Bash Shell
+Bash (Bourne Again SHell) is a popular command-line interpreter for Unix/Linux systems. It allows users to execute commands, create scripts, and automate tasks.
+
+## Bash Shell Scripting
+Bash scripting involves writing scripts to automate tasks. Basics:
+
+Shebang (#!/bin/bash): Specifies the script interpreter
+
+Variables: variable=value
+
+Control Structures: if, for, while
+
+Functions: Define reusable code blocks
+
+## Linux Software Management
+Managing software involves installing, updating, and removing packages. Tools vary by distribution:
+
+apt, dpkg: Debian-based systems (e.g., Ubuntu)
+
+yum, rpm: Red Hat-based systems (e.g., CentOS)
+
+zypper: SUSE systems
+
+## Managing Log Files
+Log files store system and application event records. Tools for managing logs:
+
+journalctl: View systemd logs
+
+/var/log/: Directory containing log files
+
+tail, less, grep: View and search logs
