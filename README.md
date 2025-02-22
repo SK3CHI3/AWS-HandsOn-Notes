@@ -220,3 +220,122 @@ Subnetting divides a large network into smaller, more manageable sub-networks (s
 - Firewalls: Security systems that control incoming and outgoing network traffic based on predetermined security rules.
 
 - Load Balancers: Distribute network or application traffic across multiple servers to ensure reliability and performance
+---
+
+# Week $: Security
+### **Security Summary Notes**  
+
+#### **1. Introduction to Security**  
+Security refers to the protection of systems, networks, and data from cyber threats. It involves policies, technologies, and best practices to safeguard information from unauthorized access, modification, or destruction.
+
+---
+
+#### **2. Security Life Cycle & Prevention**  
+- **Identify**: Recognizing assets and vulnerabilities.  
+- **Protect**: Implementing security controls to reduce risks.  
+- **Detect**: Monitoring and identifying potential threats.  
+- **Respond**: Taking action against security incidents.  
+- **Recover**: Restoring operations after an incident.  
+
+---
+
+#### **3. Network Hardening**  
+- Disabling unnecessary ports/services.  
+- Using firewalls and intrusion detection systems (IDS).  
+- Enforcing encryption for data in transit.  
+- Implementing Virtual Private Networks (VPNs).  
+
+---
+
+#### **4. System Hardening**  
+- Regularly updating and patching software.  
+- Removing unnecessary applications and users.  
+- Implementing strong authentication mechanisms.  
+- Enforcing the principle of least privilege (PoLP).  
+
+---
+
+#### **5. Data Security**  
+- Encrypting data at rest and in transit.  
+- Implementing access control policies.  
+- Using data loss prevention (DLP) solutions.  
+- Backing up data regularly and securely.  
+
+---
+
+#### **6. Public Key Infrastructure (PKI)**  
+- A framework for managing digital certificates and encryption keys.  
+- Components: Certificate Authority (CA), Registration Authority (RA), and Key Management.  
+- Enables secure communication via SSL/TLS.  
+
+---
+
+#### **7. Amazon Certificate Manager (ACM) Demonstration**  
+- AWS service for provisioning, managing, and deploying SSL/TLS certificates.  
+- Automates certificate renewals and integrations with AWS services.  
+
+---
+
+#### **8. Identity Management**  
+- Managing user access and authentication.  
+- Ensuring users have the right level of access to systems.  
+- Enforcing Multi-Factor Authentication (MFA).  
+
+---
+
+#### **9. AWS Identity and Access Management (IAM)**  
+- Controls access to AWS resources.  
+- Key Components: Users, Groups, Roles, Policies.  
+- Supports Role-Based Access Control (RBAC) and MFA.  
+
+---
+
+#### **10. Detection**  
+- Monitoring systems for suspicious activities.  
+- Using automated threat detection tools.  
+
+---
+
+#### **11. AWS CloudTrail**  
+- Tracks API calls and user activities in AWS.  
+- Logs actions for auditing and security investigations.  
+
+---
+
+#### **12. AWS Config**  
+- Monitors and records AWS resource configurations.  
+- Helps ensure compliance with security policies.  
+
+---
+
+#### **13. Response**  
+- Incident response plans for addressing security breaches.  
+- Automating responses with AWS Lambda or AWS Security Hub.  
+
+---
+
+#### **14. Analysis**  
+- Performing security audits and threat analysis.  
+- Using AWS tools like GuardDuty for threat detection.  
+
+---
+
+#### **15. Security Best Practices**  
+- Enforce the principle of least privilege (PoLP).  
+- Regularly audit permissions and access logs.  
+- Encrypt all sensitive data.  
+- Implement continuous monitoring.  
+
+---
+
+#### **16. AWS Compliance Programs**  
+- Ensures AWS meets industry regulations (ISO, HIPAA, GDPR).  
+- AWS Artifact provides compliance reports.  
+
+---
+
+#### **17. AWS Security Resources**  
+- **AWS Well-Architected Framework** – Security guidelines.  
+- **AWS Security Hub** – Centralized security insights.  
+- **AWS Trusted Advisor** – Security recommendations.  
+- **AWS Shield** – DDoS protection. 
