@@ -3,7 +3,7 @@ Mastering AWS through the Ajira AWS re/Start Program, featuring projects, notes,
 AWS Learning Journey 🚀
 Welcome to my AWS Learning Journey repository! 🌟 This is where I document everything I learn during the Ajira AWS re/Start Program. From core AWS concepts to hands-on projects, this repo will serve as my knowledge hub as I explore the exciting world of cloud computing.
 
-____
+___
 
 # "Week One:Introduction to Cloud Computing
 Cloud computing is the delivery of various computing services (like servers, storage, databases, networking, software, and more) over the internet. It allows for on-demand access to computing resources without the need for managing physical hardware2.
