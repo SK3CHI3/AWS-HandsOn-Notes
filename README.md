@@ -426,4 +426,8 @@ Security refers to the protection of systems, networks, and data from cyber thre
 
 ---
 
-🔥 
+# 🔥 IMportant LInks
+What’s next after AWS re/Start?-2
+Get inspired for what’s next after graduation by hearing from two AWS re/Start graduatesLinks to an external site. who successfully joined Accenture after their program was complete.
+
+As you get ready to earn your AWS Certified Cloud Practitioner, be sure to take advantage of the exam preparation materialsLinks to an external site. available on the AWS website. These resources will help supplement the hands-on experience you’ve gained throughout the AWS re/Start program.
