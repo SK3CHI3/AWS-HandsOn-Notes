@@ -308,3 +308,122 @@ Security refers to the protection of systems, networks, and data from cyber thre
 - **AWS Security Hub** – Centralized security insights.  
 - **AWS Trusted Advisor** – Security recommendations.  
 - **AWS Shield** – DDoS protection. 
+
+
+# Week 5: 📌 Python Programming Cheat Sheet  
+
+## 🐍 Python Basics  
+- Interpreted, dynamically typed, high-level language.  
+- **Variables:**  
+  ```python
+  x = 10  
+  name = "Python"  
+  ```
+- **Data Types:** `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict`, `set`  
+- **I/O Operations:**  
+  ```python
+  name = input("Enter name: ")  
+  print(f"Hello, {name}!")  
+  ```
+- **Operators:** `+`, `-`, `*`, `/`, `%`, `//`, `**`, `and`, `or`, `not`  
+
+## 🔁 Python Flow Control  
+- **Conditional Statements:**  
+  ```python
+  if x > 0:  
+      print("Positive")  
+  elif x == 0:  
+      print("Zero")  
+  else:  
+      print("Negative")  
+  ```  
+- **Loops:**  
+  ```python
+  for x in range(5):  
+      print(x)  
+
+  x = 0  
+  while x < 5:  
+      print(x)  
+      x += 1  
+  ```  
+
+## 🛠️ Functions in Python  
+- **Defining a function:**  
+  ```python
+  def greet(name):  
+      return f"Hello, {name}!"  
+
+  print(greet("TechTinker"))  
+  ```  
+- **Lambda Functions:**  
+  ```python
+  square = lambda x: x**2  
+  print(square(5))  
+  ```  
+
+## 📦 Modules & Libraries  
+- **Importing Modules:**  
+  ```python
+  import math  
+  from datetime import datetime  
+  ```
+- **Popular Libraries:** `numpy`, `pandas`, `requests`, `flask`, `django`  
+- **Creating a Module:** Save functions in a `.py` file and import them using `import module_name`  
+
+## 🖥️ System Administration with Python  
+- **Execute Shell Commands:**  
+  ```python
+  import os  
+  os.system("ls")  # Linux/Mac  
+  os.system("dir") # Windows  
+  ```
+- **File Handling:**  
+  ```python
+  with open("file.txt", "r") as file:  
+      content = file.read()  
+      print(content)  
+  ```  
+
+## 🐞 Debugging & Testing  
+- **Print Debugging:**  
+  ```python
+  print(var)  
+  ```
+- **Using `pdb`:**  
+  ```python
+  import pdb; pdb.set_trace()  
+  ```
+- **Unit Testing:**  
+  ```python
+  import unittest  
+
+  class TestMath(unittest.TestCase):  
+      def test_add(self):  
+          self.assertEqual(1 + 1, 2)  
+  ```  
+
+## 🚀 Python & DevOps Tools  
+- **Automation:** `Fabric`, `Invoke`  
+- **CI/CD:** `Jenkins`, `GitHub Actions`  
+- **Cloud & Containers:** `AWS SDK (boto3)`, `Docker SDK`, `Kubernetes`  
+
+## ⚙️ Python Configuration Management  
+- **Using Config Files:**  
+  ```python
+  import json  
+
+  with open("config.json") as f:  
+      config = json.load(f)  
+  print(config["api_key"])  
+  ```  
+- **Environment Variables:**  
+  ```python
+  import os  
+  api_key = os.getenv("API_KEY")  
+  ```  
+- **Configuration Management Tools:** `Ansible`, `SaltStack`, `Terraform`  
+
+---
+
+🔥 
