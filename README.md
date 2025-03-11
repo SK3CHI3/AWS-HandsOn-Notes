@@ -8,7 +8,7 @@ ___
 Cloud computing is the delivery of various computing services (like servers, storage, databases, networking, software, and more) over the internet. It allows for on-demand access to computing resources without the need for managing physical hardware2.
 
 ## Basic Computing Concepts
-- Computer: An electronic device that processes data.
+- Computer: An electronic device that processes data. 
 
 - Hardware: Physical components of a computer (e.g., CPU, RAM, storage).
 
