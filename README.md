@@ -9,7 +9,7 @@ Cloud computing is the delivery of various computing services (like servers, sto
 
 ## Basic Computing Concepts
 - Computer: An electronic device that processes data. 
-
+    
 - Hardware: Physical components of a computer (e.g., CPU, RAM, storage).
 
 - Software: Programs and operating systems that run on hardware.
