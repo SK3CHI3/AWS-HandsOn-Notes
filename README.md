@@ -424,7 +424,8 @@ Security refers to the protection of systems, networks, and data from cyber thre
 - **Configuration Management Tools:** `Ansible`, `SaltStack`, `Terraform`  
 
 ---
-# AWS Databases Overview
+
+# Week 6: AWS Databases Overview
 
 ## Introduction  
 Databases are structured systems for storing, managing, and retrieving data. AWS offers a variety of database services, including relational and NoSQL options, to meet diverse application needs.
