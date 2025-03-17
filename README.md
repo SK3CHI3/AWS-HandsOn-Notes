@@ -424,4 +424,90 @@ Security refers to the protection of systems, networks, and data from cyber thre
 - **Configuration Management Tools:** `Ansible`, `SaltStack`, `Terraform`  
 
 ---
-# Week 6: Databases
+# AWS Databases Overview
+
+## Introduction  
+Databases are structured systems for storing, managing, and retrieving data. AWS offers a variety of database services, including relational and NoSQL options, to meet diverse application needs.
+
+---
+
+## Data Interaction and Database Transactions  
+- **Data Interaction:** How applications communicate with databases to store, retrieve, and manipulate data.  
+- **Transactions:** Ensure data integrity using **ACID** properties:
+  - **Atomicity:** Operations are all-or-nothing.
+  - **Consistency:** Database remains in a valid state.
+  - **Isolation:** Simultaneous transactions don’t interfere.
+  - **Durability:** Changes persist even after failures.
+
+---
+
+## Creating Tables and Learning Different Data Types  
+- Use SQL's `CREATE TABLE` statement to define tables.  
+- Common data types include:
+  - **String:** `VARCHAR`, `TEXT`  
+  - **Numeric:** `INT`, `FLOAT`  
+  - **Date/Time:** `DATE`, `TIMESTAMP`  
+
+---
+
+## Inserting Data into Databases  
+- Use the `INSERT INTO` statement to add records.  
+- **Syntax:**  
+  ```sql
+  INSERT INTO table_name (column1, column2) VALUES (value1, value2);
+  ```
+
+---
+
+## Selecting Data from a Database  
+- Use the `SELECT` statement to retrieve data.  
+- **Syntax:**  
+  ```sql
+  SELECT column1, column2 FROM table_name WHERE condition;
+  ```
+
+---
+
+## Working with Functions  
+Functions perform operations like calculations, aggregations, and data transformations.
+
+### Examples:
+- **Aggregate Functions:** `SUM()`, `AVG()`, `COUNT()`
+- **String Functions:** `CONCAT()`, `SUBSTRING()`
+
+---
+
+## Organizing Data  
+- Use **normalization** to reduce redundancy and improve data integrity.
+- Organize data into tables with clear relationships using **primary** and **foreign keys**.
+
+---
+
+## Retrieving Data  
+- Use SQL queries to fetch specific data.
+- Optimize retrieval with **indexing** and **efficient query design**.
+
+---
+
+## Amazon RDS  
+A **fully managed relational database service** supporting engines like:
+- MySQL
+- PostgreSQL
+- SQL Server
+
+### Features:
+✔ Automated backups  
+✔ High availability  
+✔ Scalability  
+
+---
+
+## Amazon DynamoDB  
+A **serverless NoSQL database** for key-value and document data.
+
+### Offers:
+✔ Single-digit millisecond performance  
+✔ Automatic scaling  
+✔ Ideal for high throughput, low-latency applications  
+
+---
